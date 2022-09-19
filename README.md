@@ -12,7 +12,7 @@
 
 Projeto desenvolvido no evento Next level Week Returt(NLW) da Rocketseat, onde foi criada uma página com o tema de uma clínica medica. 
 
-[🔗 Clique aqui para acessar](https://AndersonRodrigs.github.io/DoctorCare.//)
+[🔗 Clique aqui para acessar](https://andersonrodrigs.github.io/NLW-Return/)
 
 ## 🛠 Tecnologias utilizadas:
 
